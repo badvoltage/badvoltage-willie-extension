@@ -50,18 +50,20 @@ If you don't provide the start and the end UTC times, the command will fail.
 
 ## License
 
-    badvoltage.py - Willie Badvoltage Module
-    Copyright 2014, Bruno Bord
-    Licensed under the terms of the WTFPL.
+badvoltage.py - Willie Badvoltage Module - Copyright 2014, Bruno Bord.
 
-    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-    Version 2, December 2004
+This code is licensed under the terms of the WTFPL.
 
-    Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+                        Version 2, December 2004 
 
-    Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
+     Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
 
-    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+     Everyone is permitted to copy and distribute verbatim or modified 
+     copies of this license document, and changing it is allowed as long 
+     as the name is changed. 
 
-    0. You just DO WHAT THE FUCK YOU WANT TO.
+                DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+       TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+
+      0. You just DO WHAT THE FUCK YOU WANT TO.
